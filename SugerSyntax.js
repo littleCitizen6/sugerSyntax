@@ -6,3 +6,4 @@ function stringFormat(str, dictionary){
     }
     console.log(str);
 }
+
